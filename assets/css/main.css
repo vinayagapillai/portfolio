@@ -503,7 +503,7 @@ h6, .h6 {
 
 /* line 39, node_modules/bootstrap/scss/_type.scss */
 .display-3 {
-  font-size: 4.5rem;
+  font-size: 0.5rem;
   font-weight: 300;
   line-height: 1.1;
 }
@@ -12846,7 +12846,7 @@ footer a {
 
 /* line 75, src/assets/scss/pages/_theme.scss */
 .entry:hover .work-entry-hover {
-  opacity: 1;
+  opacity: 0.7;
   visibility: visible;
 }
 
